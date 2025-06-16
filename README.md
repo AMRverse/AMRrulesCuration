@@ -89,7 +89,7 @@ Before submitting rules for review, please first check them using the Python [va
 
 ***Serratia -*** *Sandra Reuter*, Teresa Coque, Adam Komorowski, Basil Britto Xavier, Brian Forde
 
-***Achromobacter xylosoxidans -*** *Charlotte Michel*
+***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux
 
 ***Aeromonas -*** *Po-Yu Liu*
 
