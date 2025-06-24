@@ -2,16 +2,16 @@
 
 <img src="AMRrules_logo.png" width="200" align="right">
 
-This repository is the home of the ESGEM-AMR Working Group, which focuses on curating organism-specific rule sets for interpreting AMR genotypes under the [AMRrules](https://github.com/interpretAMR/AMRrules) framework.
+This repository is the home of the ESGEM-AMR Working Group, which focuses on curating organism-specific rule sets for interpreting AMR genotypes under the [AMRrules](https://github.com/AMRverse/AMRrules) framework.
 
 The goal of AMRrules is to develop interpretive standards for AMR genotypes, akin to the interpretive standards developed by [EUCAST](https://www.eucast.org/) and [CLSI](https://clsi.org/) for antimicrobial susceptibility phenotyping.
 
-An overview of the concept, with example data structures and code, is available in the [AMRrules](https://github.com/interpretAMR/AMRrules) repository. 
+An overview of the concept, with example data structures and code, is available in the [AMRrules](https://github.com/AMRverse/AMRrules) repository. 
 
 We have partnered with [ESGEM, the ESCMID Study Group on Epidemiological Markers](https://www.escmid.org/esgem/), to form an ESGEM-AMR Working Group to curate organism-specific rule sets. 
-* Slides from the introductory webinars held May 14/15 are available [here](https://github.com/interpretAMR/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf).
-* A detailed description of the Working Group and the overall AMRrules approach is available [here](https://github.com/interpretAMR/AMRrulesCuration/blob/main/ESGEM-AMR%20Working%20Group.pdf), including scope, plans and timeline.
-* Technical guidance for curation of rule sets is available [here](https://github.com/interpretAMR/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf), this is a work in progress and will be refined as we go.
+* Slides from the introductory webinars held May 14/15 are available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf).
+* A detailed description of the Working Group and the overall AMRrules approach is available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Working%20Group.pdf), including scope, plans and timeline.
+* Technical guidance for curation of rule sets is available [here](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf), this is a work in progress and will be refined as we go.
 * The rule specification template is [here (v0.5, under active development)](https://docs.google.com/spreadsheets/d/1F-J-_8Kyo3W0Oh6eDYyd0N8ahqVwiddM2112-Fg1gKc/edit?usp=sharing).
 
 ## Membership
@@ -31,14 +31,14 @@ We are keen to partner with other allied organisations and initiatives, please [
 ## Member Resources
 
 * AMRrules Spec - v0.5 [[google sheet]](https://docs.google.com/spreadsheets/d/1F-J-_8Kyo3W0Oh6eDYyd0N8ahqVwiddM2112-Fg1gKc/edit?usp=sharing)
-* AMRrules Technical Guidance - v1.5 [[PDF]](https://github.com/interpretAMR/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
+* AMRrules Technical Guidance - v1.5 [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
 * AMRgen R package for analysing matched genotype/phenotype data [[AMRgen repo]](https://github.com/interpretAMR/AMRgen)
-* Code and tools for accessing public AMRfinderplus + AST data [[datacuration repo]](https://github.com/interpretAMR/datacuration)
+* Code and tools for accessing public AMRfinderplus + AST data [[datacuration repo]](https://github.com/AMRverse/datacuration)
 * GTDB taxonomy: [[browser]](https://gtdb.ecogenomic.org/) [[GTDBtk software]](https://github.com/Ecogenomics/GTDBTk)
 * CARD/Antimicrobial Resistance Ontology (ARO): [[browser]](https://card.mcmaster.ca/)
 * Drug class definitions: [ATC Index](https://atcddd.fhi.no/atc_ddd_index/)
 * Variant specification: [HGVS](https://hgvs-nomenclature.org/stable/)
-* AMR rules syntax: [[this repo]](https://github.com/interpretAMR/AMRrulesCuration/blob/main/syntax.md)
+* AMR rules syntax: [[this repo]](https://github.com/AMRverse/AMRrulesCuration/blob/main/syntax.md)
 * EUCAST: [[Breakpoints]](https://www.eucast.org/clinical_breakpoints) [[Expected Resistance]](https://www.eucast.org/expert_rules_and_expected_phenotypes/expected_phenotypes)
 * NCBI AMRfinderplus: [[software]](https://www.ncbi.nlm.nih.gov/pathogens/antimicrobial-resistance/AMRFinder/)
 * NCBI refgene (AMR Gene Catalog): [[browser]](https://www.ncbi.nlm.nih.gov/pathogens/refgene/)
@@ -46,12 +46,12 @@ We are keen to partner with other allied organisations and initiatives, please [
 * NCBI refseq: [[browser]](https://www.ncbi.nlm.nih.gov/refseq/)
 * NCBI AST data: [[browser]](https://www.ncbi.nlm.nih.gov/pathogens/ast/)
 * NCBI AST data submission: [[info]](https://www.ncbi.nlm.nih.gov/pathogens/submit-data/) [[submission format]](https://www.ncbi.nlm.nih.gov/biosample/docs/antibiogram/)
-* Introductory webinar slides: [[PDF]](https://github.com/interpretAMR/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf)
-* Kickoff meeting slides: [[PDF]](https://github.com/interpretAMR/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Kickoff%20slides.pdf)
+* Introductory webinar slides: [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf)
+* Kickoff meeting slides: [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Kickoff%20slides.pdf)
 
 ### Automatic validation of rules
 
-Before submitting rules for review, please first check them using the Python [validation script](https://github.com/interpretAMR/AMRrulesCuration/blob/main/validation/README.md).
+Before submitting rules for review, please first check them using the Python [validation script](https://github.com/AMRverse/AMRrulesCuration/blob/main/validation/README.md).
 
 ## Member List (by subgroup)
 
@@ -59,7 +59,7 @@ Before submitting rules for review, please first check them using the Python [va
 
 ***Enterococcus -*** *Francesc Coll*, Thomas Demuyser, Ana R. Freitas, Guido Werner, Precious Osadebamwen, Theo Gouliouris, Fiona Walsh, Valeria Bortolaia, Basil Britto Xavier, Helena Seth-Smith
 
-***Staphylococcus -*** *Natacha Couto*, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Assaf Rokney, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Basil Britto Xavier, Nick Duggett, Birgit Strommenger
+***Staphylococcus -*** *Natacha Couto*, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Assaf Rokney, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Nick Duggett, Birgit Strommenger
 
 ***Acinetobacter baumannii -*** *Paul Higgins*, Rahul Garg, Mehrad Hamidian, Bogdan Iorga, Priyanka Khopkar-Kale, Margaret Lam, Bruno Silvester Lopes, Ignasi Roca, Varun Shamanna, Clement Tsui, David Wareham, Valeria Bortolaia, Adrian Egli
 
@@ -89,7 +89,7 @@ Before submitting rules for review, please first check them using the Python [va
 
 ***Serratia -*** *Sandra Reuter*, Teresa Coque, Adam Komorowski, Basil Britto Xavier, Brian Forde
 
-***Achromobacter xylosoxidans -*** *Charlotte Michel*
+***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux
 
 ***Aeromonas -*** *Po-Yu Liu*
 
@@ -115,7 +115,7 @@ Before submitting rules for review, please first check them using the Python [va
 
 ***Legionella -*** *Charlotte Michel*, Ghislaine Descours, Christophe	Ginevra, Stefano De Giorgi, Nancy Flountzi, Jarraud	Sophie
 
-***Mycoplasma pneumoniae -*** *Mike Beeton*, Anna	Roditscheff, Basil Britto Xavier, Sabine Pereyre, Patrick Meyer Sauteur, Nick Duggett, Jørgen Skov Jensen
+***Mycoplasma pneumoniae -*** *Mike Beeton*, Anna	Roditscheff, Sabine Pereyre, Patrick Meyer Sauteur, Nick Duggett, Jørgen Skov Jensen
 
 ***Neisseria meningitidis -*** *Célia Bettencourt*, Leonor Sanchez Buso, Ala-Eddine Deghmane, Wesley Mattheus, Ana Filipa Vale
 
