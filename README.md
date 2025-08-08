@@ -93,7 +93,7 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Aeromonas -*** *Po-Yu Liu*, João PedroFurlan
 
-***Shewanella -*** *Po-Yu Liu*, João PedroFurlan
+***Shewanella -*** *Po-Yu Liu*, João PedroFurlan, Ting-Kuang Yeh
 
 ***Bordetella -*** *Laurence Luu*, Carla Rodrigues
 
@@ -117,7 +117,7 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Mycoplasma pneumoniae -*** *Mike Beeton*, Anna	Roditscheff, Sabine Pereyre, Patrick Meyer Sauteur, Nick Duggett, Jørgen Skov Jensen
 
-***Neisseria meningitidis -*** *Célia Bettencourt*, Leonor Sanchez Buso, Ala-Eddine Deghmane, Wesley Mattheus, Ana Filipa Vale
+***Neisseria meningitidis -*** *Célia Bettencourt*, Leonor Sanchez Buso, Ala-Eddine Deghmane, Wesley Mattheus, Ana Filipa Vale, Alexandra Nunes
 
 ***Proteus mirabilis -*** *Axel Hamprecht*, Janko Sattler, Elisenda Miro, Rémy Bonnin, Stephan Goettig, Shereen Shaban Abdelkareem
 
