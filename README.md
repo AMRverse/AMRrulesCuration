@@ -19,9 +19,13 @@ We have partnered with [ESGEM, the ESCMID Study Group on Epidemiological Markers
 
 The convenors of the ESGEM-AMR Working Group are Kat Holt (LSHTM), Natacha Couto (ESGEM Chair), and Jane Hawkey (Monash, leading bioinformatics development).
 
-A call for members was launched at the ESGEM General Meeting on April 29, 2024 and closed June 2. Over 120 applications were received and most of these have been invited to join organism-focused subgroups. The initial list of members is posted [below](#member-list-by-subgroup).
+A call for members was launched at the ESGEM General Meeting on April 29, 2024 and closed June 2. Over 120 applications were received and most of these have been invited to join organism-focused subgroups. We have now grown to 175 members (listed [below](#member-list-by-subgroup)). 
 
-Additional requests to join ESGEM-AMR will be considered in mid 2025, once an initial release has been made and it is clear where additional input would be beneficial. In the meantime you may register your interest and let us know what organism/s you have expertise in, using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeH96VlioxLKarZOLMqD-f1fLnb9WYOHYz4tZ9NtQzpHrKyzw/viewform?usp=sf_link).
+Additional requests to join ESGEM-AMR will be considered periodically. In the meantime you may register your interest and let us know what organism/s you have expertise in, using [this form](https://docs.google.com/forms/d/e/1FAIpQLSeH96VlioxLKarZOLMqD-f1fLnb9WYOHYz4tZ9NtQzpHrKyzw/viewform?usp=sf_link).
+
+<img src="ESGEM_AMR_IMMEM2025.jpg" align="centre">
+[Image: Some ESGEM-AMR members attending the 2025 IMMEM XIV Conference, organised by ESGEM and ESCMID.]
+
 
 ## Partners
 
