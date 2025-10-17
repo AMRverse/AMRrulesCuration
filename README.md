@@ -63,11 +63,11 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Enterococcus -*** *Francesc Coll*, Thomas Demuyser, Ana R. Freitas, Guido Werner, Precious Osadebamwen, Theo Gouliouris, Fiona Walsh, Valeria Bortolaia, Basil Britto Xavier, Helena Seth-Smith
 
-***Staphylococcus -*** *Natacha Couto*, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Assaf Rokney, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Nick Duggett, Birgit Strommenger, Lina Cavaco, Varun Shamanna, Sabrina Di Gregorio, Teresa Ribeiro
+***Staphylococcus -*** *Natacha Couto*, Birgitta Duim, Valeria Bortolaia, Sarah Baines, Sandra Reuter, Assaf Rokney, Holly Grace Espiriu, Manal AbuOun, Sankarganesh Jeyaraj, Robert Kozak, Nick Duggett, Birgit Strommenger, Lina Cavaco, Varun Shamanna, Sabrina Di Gregorio, Teresa Ribeiro, Tim	Read
 
 ***Acinetobacter baumannii -*** *Paul Higgins*, Rahul Garg, Mehrad Hamidian, Bogdan Iorga, Priyanka Khopkar-Kale, Margaret Lam, Bruno Silvester Lopes, Ignasi Roca, Varun Shamanna, Clement Tsui, David Wareham, Valeria Bortolaia, Adrian Egli, Lucie Amoureux, Vera Manageiro, Antoine Abou Fayad
 
-***Enterobacter -*** *Teresa Coque/Rafael Canton*, Paul Higgins, Fernando Lazaro Perona, Po-Yu Liu, Elena Martinez, Rietie Venter, Ana Budimir, Angela Novais, Patrick Harris, Valeria Bortolaia, Val Fernandez, Vera Manageiro
+***Enterobacter -*** *Teresa Coque/Rafael Canton*, Paul Higgins, Fernando Lazaro Perona, Po-Yu Liu, Elena Martinez, Rietie Venter, Ana Budimir, Angela Novais, Patrick Harris, Valeria Bortolaia, Val Fernandez, Vera Manageiro, Lorena Lopez Cerero
 
 ***Pseudomonas aeruginosa -*** *Antonio Oliver*, Adriana Cabal Rosel, Alasdair Hubbard, Bogdan Lorga, Xena Li, Carla Lopez Causape, Juliette Severin, David Wareham, Adam Witney, Ørjan Samuelsen, Bela Kocsis, Derek Sarovich, Fernando Lazaro Perona, Valeria Bortolaia, Francesca Saluzzo, Vera Manageiro
 
@@ -93,6 +93,8 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Serratia -*** *Sandra Reuter*, Teresa Coque, Adam Komorowski, Basil Britto Xavier, Brian Forde, João PedroFurlan
 
+***Citrobacter-*** *Teresa Ribeiro*, Roberto Sierra, Diego Andrey
+
 ***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux
 
 ***Aeromonas -*** *Po-Yu Liu*, João PedroFurlan
@@ -115,7 +117,7 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Chryseobacterium indologenes -*** *Rietie Venter*
 
-***Corynebacterium diphtheriae -*** *Sylvain Brisse*, Louise Teixeira Cerdeira, Adrian Egli
+***Corynebacterium diphtheriae -*** *Sylvain Brisse*, Louise Teixeira Cerdeira, Adrian Egli, Teresa Ribeiro
 
 ***Legionella -*** *Charlotte Michel*, Ghislaine Descours, Christophe	Ginevra, Stefano De Giorgi, Nancy Flountzi, Jarraud	Sophie
 
