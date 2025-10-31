@@ -95,7 +95,7 @@ Before submitting rules for review, please first check them using the Python [ru
 
 ***Citrobacter-*** *Teresa Ribeiro*, Roberto Sierra, Diego Andrey
 
-***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux
+***Achromobacter xylosoxidans -*** *Charlotte Michel*, Lucie Amoureux, Miglė Gabrielaitė
 
 ***Aeromonas -*** *Po-Yu Liu*, João PedroFurlan
 
