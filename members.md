@@ -59,10 +59,10 @@ Pieter-Jan Ceyssens, Cyril Savin
 **Claire Chewapreecha**, Derek Sarovich, Chalita Chomkatekaew, Thawanrat Khuanton, Arin	Wongprommoon
 
 ### *Legionella* 
-**Charlotte Michel**, Ghislaine Descours, Stefano De Giorgi, Nancy Flountzi,	Sophie Jarraud
+**Charlotte Michel**, Ghislaine Descours, Stefano De Giorgi
 
 ### *Bordetella*
-**Laurence Luu**, Carla Rodrigues, Sylvain Brisse
+**Laurence Luu**, Carla Rodrigues
 
 ### *Haemophilus influenzae*
 **Assaf Rokney**, Priyanka Khopkar-Kale, Derek Sarovich, Margo Diricks, Matthias Merker
